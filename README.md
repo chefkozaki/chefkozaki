@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying in Hust<br>Can: coding / translating
+Studying in Hust/ Working on o365<br>Can: coding / translating
 
 
 # 💻 Tech Stack:
